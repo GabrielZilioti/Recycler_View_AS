@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">R_View</string>
+    <string name="texto">Texto</string>
+    <string name="inserir">Inserir</string>
+    <string name="text">text</string>
+    <string name="data">data</string>
+    <string name="posicao">posicao</string>
+</resources>
